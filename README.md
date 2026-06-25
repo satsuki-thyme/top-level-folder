@@ -12,3 +12,4 @@
 - thinking-notes/thi-002.md: ドーパミン獲得計画
 - thinking-notes/thi-003.md: 死とは何か
 - thinking-notes/thi-004.md: 死とは何か 2
+- thinking-notes/thi-005.md: 生・死とは何か
