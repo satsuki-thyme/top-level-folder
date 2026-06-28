@@ -6,6 +6,10 @@
 
 - notes/not-001.md: 生・死とは何か
 
+## タスク
+
+- task/tas-001.md: handler.js
+
 ## 思考ノート
 
 - thinking-notes/thi-001.md: 同人フォトブック企画について
