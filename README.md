@@ -19,3 +19,4 @@
 - thinking-notes/thi-004.md: 死とは何か 2
 - thinking-notes/thi-005.md: 生・死とは何か
 - thinking-notes/thi-006.md: 死の何が悲しいのか
+- thinking-notes/thi-007.md: やることリスト
